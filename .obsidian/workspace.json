@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "bc02fe7a0b03b934",
+    "type": "split",
+    "children": [
+      {
+        "id": "af900c7bb4469df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc3c1b073ef1869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technologies/Git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f02e1cdb0a2f01d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b5c07cc5ceec42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a7e674f4036b87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcc2f47889865b6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "564572b408215cf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "355603b9def04a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "b36c669f328abaf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c0957a44d4f209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technologies/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d80e5ac5c08b492",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technologies/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee7ccfe5b40c6857",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4232d5f8cbf77569",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technologies/Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cbc3c1b073ef1869",
+  "lastOpenFiles": [
+    "Technologies/Markdown.md",
+    "Images/git-cheat-sheet-education.pdf",
+    "Technologies/Git.md",
+    "Technologies",
+    "Images",
+    "Deployment/Prerequisites.md",
+    "Deployment",
+    "Untitled.md",
+    "Deployment Guide/Git.md",
+    "Deployment Guide",
+    "New folder",
+    "Git.md",
+    "Welcome.md"
+  ]
+}
