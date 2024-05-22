@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technologies/Git.md",
+                "file": "Deployment/Deployment v1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "355603b9def04a34",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technologies/Git.md",
+                "file": "Deployment/Deployment v1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technologies/Git.md",
+                "file": "Deployment/Deployment v1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technologies/Git.md"
+                "file": "Deployment/Deployment v1.md"
               }
             }
           }
@@ -149,14 +150,17 @@
   },
   "active": "cbc3c1b073ef1869",
   "lastOpenFiles": [
-    "Technologies/Markdown.md",
+    "Terms and TLAs.md",
+    "To Add.md",
+    "Deployment/Deployment v1.md",
     "Images/git-cheat-sheet-education.pdf",
+    "Technologies/Markdown.md",
     "Technologies/Git.md",
+    "Deployment/Untitled",
+    "Deployment/Prerequisites.md",
     "Technologies",
     "Images",
-    "Deployment/Prerequisites.md",
     "Deployment",
-    "Untitled.md",
     "Deployment Guide/Git.md",
     "Deployment Guide",
     "New folder",
